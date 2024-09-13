@@ -9,7 +9,7 @@ profile:
   image: Flores_headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PAB 204</p>
+    <p>Physics & Astrophysics Building 203</p>
     <p>452 Lomita Mall</p>
     <p>Stanford, CA 94305</p>
 
