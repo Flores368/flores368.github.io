@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2095-10-22 15:59:00-0400
+date: 2023-07-12 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Awarded a NASA Future Investigators (FINESST) Award to study "The Rise of Giants: Tracing the Evolution of Galaxy Clusters from Their Cosmic Origins"
