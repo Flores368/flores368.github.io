@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Granted a new Joint Chandra+XMM GO program from Chandra Cycle 26 to observe 16 new clusters at $$z>0.7$$ for evolutionary studies.
+Granted a new Joint Chandra+XMM GO program from Chandra Cycle 26 to observe 16 clusters at $$z>0.7$$ for evolutionary studies.
