@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anthony
 middle_name: M.
 last_name: Flores
-email: aflores7@stanford.edu
+email: anthony.flores7@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -73,7 +73,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
-bluesky_url: # your bluesky URL
+bluesky_url: # https://bsky.app/profile/astro-anthony.bsky.social
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  University email is the best way to reach me!.
+  University email is the best way to reach me!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
